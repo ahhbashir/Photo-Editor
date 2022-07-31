@@ -2,7 +2,7 @@
 
 This is a very simple photo editor I made using python with the Pillow Python Library.
 
-To use this automated photo editor you must create two folders:imgs & editedImgs
+To use this automated photo editor you must create two folders: imgs & editedImgs
 
 Next add all the photos you want to edit into the imgs folder and run photoEditor.py.
 
